@@ -28,13 +28,6 @@ Employee churn (attrition) is a critical challenge for HR departments. This proj
 - Model evaluation using accuracy, confusion matrix, ROC-AUC
 - Feature importance visualization
 
-## 🧠 ML Models Used
-
-- ✅ Logistic Regression
-- ✅ Decision Tree
-- ✅ Random Forest
-- ✅ XGBoost (optional for advanced users)
-
 
 
 
